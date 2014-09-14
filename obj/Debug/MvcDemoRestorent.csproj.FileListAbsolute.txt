@@ -1,0 +1,147 @@
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.csprojResolveAssemblyReference.cache
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.pdb
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Antlr3.Runtime.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.Infrastructure.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Optimization.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\WebGrease.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.dll
+E:\Window Projects\MVCTest\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.pdb
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.pdb
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Antlr3.Runtime.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.Infrastructure.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Optimization.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\WebGrease.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.csprojResolveAssemblyReference.cache
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.dll
+E:\web Projects\New BDK WEB App\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.pdb
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\MvcDemoRestorent.pdb
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Antlr3.Runtime.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.Infrastructure.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Optimization.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\WebGrease.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\EntityFramework.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Newtonsoft.Json.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Net.Http.Formatting.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Helpers.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Http.WebHost.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Mvc.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.Razor.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Deployment.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\System.Web.WebPages.Razor.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.Data.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\WebMatrix.WebData.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.AspNet.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.Core.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OAuth.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.csprojResolveAssemblyReference.cache
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.dll
+D:\Crystal projetcs\work\MvcDemoRestorent\MvcDemoRestorent\obj\Debug\MvcDemoRestorent.pdb

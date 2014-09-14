@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HowSeeMeModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DBEntity" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="HowSeeMeModel.Category" />
+    <EntitySet Name="Receipes" EntityType="HowSeeMeModel.Receipe" />
+    <EntitySet Name="sysdiagrams" EntityType="HowSeeMeModel.sysdiagram" />
+    <EntitySet Name="UserProfiles" EntityType="HowSeeMeModel.UserProfile" />
+    <EntitySet Name="Users" EntityType="HowSeeMeModel.User" />
+    <AssociationSet Name="FK_Receipe_Category" Association="HowSeeMeModel.FK_Receipe_Category">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Receipe" EntitySet="Receipes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_UserProfile" Association="HowSeeMeModel.FK_Users_UserProfile">
+      <End Role="UserProfile" EntitySet="UserProfiles" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CatId" />
+    </Key>
+    <Property Name="CatId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Receipes" Relationship="HowSeeMeModel.FK_Receipe_Category" FromRole="Category" ToRole="Receipe" />
+  </EntityType>
+  <EntityType Name="Receipe">
+    <Key>
+      <PropertyRef Name="ResId" />
+    </Key>
+    <Property Name="ResId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CatId" Type="Int32" />
+    <Property Name="ReceipeName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="1500" Unicode="false" FixedLength="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="ImagePath" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ImageName" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Category" Relationship="HowSeeMeModel.FK_Receipe_Category" FromRole="Receipe" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="150" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Users" Relationship="HowSeeMeModel.FK_Users_UserProfile" FromRole="UserProfile" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Mob" Type="Int32" />
+    <Property Name="ProfileId" Type="Int32" />
+    <NavigationProperty Name="UserProfile" Relationship="HowSeeMeModel.FK_Users_UserProfile" FromRole="Users" ToRole="UserProfile" />
+  </EntityType>
+  <Association Name="FK_Receipe_Category">
+    <End Role="Category" Type="HowSeeMeModel.Category" Multiplicity="0..1" />
+    <End Role="Receipe" Type="HowSeeMeModel.Receipe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CatId" />
+      </Principal>
+      <Dependent Role="Receipe">
+        <PropertyRef Name="CatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_UserProfile">
+    <End Role="UserProfile" Type="HowSeeMeModel.UserProfile" Multiplicity="0..1" />
+    <End Role="Users" Type="HowSeeMeModel.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="ProfileId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

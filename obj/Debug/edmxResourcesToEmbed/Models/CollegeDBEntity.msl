@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CollegeDBModelStoreContainer" CdmEntityContainer="CollegeDBEntities">
+    <EntitySetMapping Name="CASTs">
+      <EntityTypeMapping TypeName="CollegeDBModel.CAST">
+        <MappingFragment StoreEntitySet="CAST">
+          <ScalarProperty Name="Sessionname" ColumnName="Sessionname" />
+          <ScalarProperty Name="CastName" ColumnName="CastName" />
+          <ScalarProperty Name="CastId" ColumnName="CastId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Classes">
+      <EntityTypeMapping TypeName="CollegeDBModel.Class">
+        <MappingFragment StoreEntitySet="Class">
+          <ScalarProperty Name="CoursesType_Sessionname" ColumnName="CoursesType_Sessionname" />
+          <ScalarProperty Name="CoursesID" ColumnName="CoursesID" />
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="MiniPractical" ColumnName="MiniPractical" />
+          <ScalarProperty Name="MaxPractical" ColumnName="MaxPractical" />
+          <ScalarProperty Name="sessionName" ColumnName="sessionName" />
+          <ScalarProperty Name="ClassName" ColumnName="ClassName" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClassFeeDetails">
+      <EntityTypeMapping TypeName="CollegeDBModel.ClassFeeDetail">
+        <MappingFragment StoreEntitySet="ClassFeeDetails">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="SeesionName" ColumnName="SeesionName" />
+          <ScalarProperty Name="FeeHeadID" ColumnName="FeeHeadID" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CoursesTypes">
+      <EntityTypeMapping TypeName="CollegeDBModel.CoursesType">
+        <MappingFragment StoreEntitySet="CoursesType">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="Sessionname" ColumnName="Sessionname" />
+          <ScalarProperty Name="ExtraMaxPer" ColumnName="ExtraMaxPer" />
+          <ScalarProperty Name="GraducationPerCount" ColumnName="GraducationPerCount" />
+          <ScalarProperty Name="C12PerCount" ColumnName="12PerCount" />
+          <ScalarProperty Name="C10PerCount" ColumnName="10PerCount" />
+          <ScalarProperty Name="CoursesName" ColumnName="CoursesName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ExtraCertificates">
+      <EntityTypeMapping TypeName="CollegeDBModel.ExtraCertificate">
+        <MappingFragment StoreEntitySet="ExtraCertificates">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="CertificatePersent" ColumnName="CertificatePersent" />
+          <ScalarProperty Name="CertificateName" ColumnName="CertificateName" />
+          <ScalarProperty Name="CertificateId" ColumnName="CertificateId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FeeGroups">
+      <EntityTypeMapping TypeName="CollegeDBModel.FeeGroup">
+        <MappingFragment StoreEntitySet="FeeGroup">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="FGroupId" ColumnName="FGroupId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FeeHeads">
+      <EntityTypeMapping TypeName="CollegeDBModel.FeeHead">
+        <MappingFragment StoreEntitySet="FeeHead">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="FeeType" ColumnName="FeeType" />
+          <ScalarProperty Name="FeeSection" ColumnName="FeeSection" />
+          <ScalarProperty Name="FeeeName" ColumnName="FeeeName" />
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="FeeGroupId" ColumnName="FeeGroupId" />
+          <ScalarProperty Name="FeeId" ColumnName="FeeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FeeSettings">
+      <EntityTypeMapping TypeName="CollegeDBModel.FeeSetting">
+        <MappingFragment StoreEntitySet="FeeSetting">
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="MaxLimit" ColumnName="MaxLimit" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Operation" ColumnName="Operation" />
+          <ScalarProperty Name="ToFeeHeadId" ColumnName="ToFeeHeadId" />
+          <ScalarProperty Name="FromFeeHeadId" ColumnName="FromFeeHeadId" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registrations">
+      <EntityTypeMapping TypeName="CollegeDBModel.Registration">
+        <MappingFragment StoreEntitySet="Registration">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="Remark" ColumnName="Remark" />
+          <ScalarProperty Name="TotalEducationPer" ColumnName="TotalEducationPer" />
+          <ScalarProperty Name="TotalExtraPer" ColumnName="TotalExtraPer" />
+          <ScalarProperty Name="ExtraPer5" ColumnName="ExtraPer5" />
+          <ScalarProperty Name="ExtraId5" ColumnName="ExtraId5" />
+          <ScalarProperty Name="ExtraPer4" ColumnName="ExtraPer4" />
+          <ScalarProperty Name="ExtraId4" ColumnName="ExtraId4" />
+          <ScalarProperty Name="ExtraPer3" ColumnName="ExtraPer3" />
+          <ScalarProperty Name="ExtraId3" ColumnName="ExtraId3" />
+          <ScalarProperty Name="ExtraPer2" ColumnName="ExtraPer2" />
+          <ScalarProperty Name="ExtraId2" ColumnName="ExtraId2" />
+          <ScalarProperty Name="ExtraPer1" ColumnName="ExtraPer1" />
+          <ScalarProperty Name="ExtraId1" ColumnName="ExtraId1" />
+          <ScalarProperty Name="GraducatePer" ColumnName="GraducatePer" />
+          <ScalarProperty Name="C12Per" ColumnName="12Per" />
+          <ScalarProperty Name="C10Per" ColumnName="10Per" />
+          <ScalarProperty Name="GraducateObtenMarks" ColumnName="GraducateObtenMarks" />
+          <ScalarProperty Name="C12ObtenMarks" ColumnName="12ObtenMarks" />
+          <ScalarProperty Name="C10ObtenMarks" ColumnName="10ObtenMarks" />
+          <ScalarProperty Name="GraducateMaxMarks" ColumnName="GraducateMaxMarks" />
+          <ScalarProperty Name="C12MaxMarks" ColumnName="12MaxMarks" />
+          <ScalarProperty Name="C10MaxMarks" ColumnName="10MaxMarks" />
+          <ScalarProperty Name="RegFee" ColumnName="RegFee" />
+          <ScalarProperty Name="FTitle" ColumnName="FTitle" />
+          <ScalarProperty Name="StudentLName" ColumnName="StudentLName" />
+          <ScalarProperty Name="StudentFName" ColumnName="StudentFName" />
+          <ScalarProperty Name="STitle" ColumnName="STitle" />
+          <ScalarProperty Name="CastId" ColumnName="CastId" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="RecNo" ColumnName="RecNo" />
+          <ScalarProperty Name="FormNo" ColumnName="FormNo" />
+          <ScalarProperty Name="RegistrationNo" ColumnName="RegistrationNo" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="CollegeDBModel.Session">
+        <MappingFragment StoreEntitySet="Session">
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+          <ScalarProperty Name="OpenIndic" ColumnName="OpenIndic" />
+          <ScalarProperty Name="DefaultIndic" ColumnName="DefaultIndic" />
+          <ScalarProperty Name="EndingDate" ColumnName="EndingDate" />
+          <ScalarProperty Name="Startdate" ColumnName="Startdate" />
+          <ScalarProperty Name="SessionName" ColumnName="SessionName" />
+          <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserProfiles">
+      <EntityTypeMapping TypeName="CollegeDBModel.UserProfile">
+        <MappingFragment StoreEntitySet="UserProfile">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="CollegeDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="ProfileId" ColumnName="ProfileId" />
+          <ScalarProperty Name="Mob" ColumnName="Mob" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
