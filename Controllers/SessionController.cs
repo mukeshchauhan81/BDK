@@ -51,7 +51,7 @@ namespace MvcDemoRestorent.Controllers
                 {
                     Session _session = db.Sessions.Where(p => p.SessionId == objses.SessionId).FirstOrDefault();
 
-
+                    //For Update
                     if (_session != null)
                     {
                         db.Entry(_session).CurrentValues.SetValues(objses);
